@@ -1,0 +1,7 @@
+build/
+build-msvc/
+out/
+*.user
+.vs/
+CMakeCache.txt
+CMakeFiles/
